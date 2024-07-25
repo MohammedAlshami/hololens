@@ -145,6 +145,7 @@
    ![Remote Debugging Settings](https://i.imgur.com/0KfO7ad.png)
 
 6. Finally, click on the remote machine and run the project. This should automatically deploy the server to the HoloLens 2.
+![Deploy](https://i.imgur.com/x7GzSn1.png)
 
 ### Testing Videos
 #### Note: There was an issue with the speed of the internet within the lab, hence it affected the speed of the cube moving
