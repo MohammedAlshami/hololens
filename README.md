@@ -117,35 +117,37 @@
 
 1. First step: Go to Window > Photon Unity Networking > Server Setup, then click on Server Settings.
 
-   ![Server Settings](image1_url)
+   ![Server Settings](https://i.imgur.com/wA2dQl7.png)
 
 2. Second step (do this for both client and server projects): Change to either TCP or WebSocket. If the client is WebSocket, then the server needs to be the same.
 
-   ![Network Protocol](image2_url)
+   ![Network Protocol](https://i.imgur.com/M0mjFQq.png)
 
 ### Connecting to Unity
 
 1. Ensure developer settings and device discovery are enabled on both Windows and HoloLens 2.
 2. On the HoloLens 2, make sure to unpair all devices.
 
-   ![Windows Settings](image3_url)
-   ![HoloLens 2 Settings](image4_url)
+   ![Windows Settings](https://stackify.com/wp-content/uploads/2017/09/what-is-windows-10-developer-mode-benefits-tools-best-practices-and-more-13705.png)
+   ![HoloLens 2 Settings](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/advanced-concepts/images/using-windows-portal-img-01.jpg)
 
 ### Connecting Visual Studio to HoloLens 2
 
 1. Ensure both the PC/laptop and HoloLens 2 are connected to the same Wi-Fi network.
 2. Set the debugging mode to "Remote Machine" and click on "Debug Properties".
 
-   ![Debug Properties](image5_url)
+   ![Debug Properties](https://i.imgur.com/Pf9XWpc.png)
 
 3. Click on "Debugging", then set the machine name to point to the HoloLens 2. If both devices are on the same Wi-Fi, the HoloLens 2 should appear automatically. If not, enter the HoloLens 2 IP address manually.
 4. Make sure the authentication is set to "Universal (Unencrypted Protocol)".
 
-   ![Remote Debugging Settings](image6_url)
+   ![Remote Debugging Settings](https://i.imgur.com/cZXyoNB.png)
+   ![Remote Debugging Settings](https://i.imgur.com/0KfO7ad.png)
 
-5. Finally, click on the remote machine and run the project. This should automatically deploy the server to the HoloLens 2.
+6. Finally, click on the remote machine and run the project. This should automatically deploy the server to the HoloLens 2.
 
 ### Testing Videos
+#### Note: There was an issue with the speed of the internet within the lab, hence it affected the speed of the cube moving
 
-1. [Testing Video 1](video1_url)
-2. [Testing Video 2](video2_url)
+1. [Testing Video 1](https://drive.google.com/file/d/1SwEBabpu7xe3cnhOp_nD_Ig71jQju5td/view?usp=sharing)
+2. [Testing Video 2](https://drive.google.com/file/d/1w5-VYQ-mtBjAlqfawZdjkuBbDHBOOr51/view?usp=sharing)
