@@ -156,5 +156,8 @@
 1. [Testing Video 1](https://drive.google.com/file/d/1SwEBabpu7xe3cnhOp_nD_Ig71jQju5td/view?usp=sharing)
 2. [Testing Video 2](https://drive.google.com/file/d/1w5-VYQ-mtBjAlqfawZdjkuBbDHBOOr51/view?usp=sharing)
 
-### Testing Video (MRTK and Mixed reality Support)
-- [MRTK Support](https://drive.google.com/file/d/1_chHqk8eMq7XklHAe1jlOo7vee1jTl28/view?usp=sharing)
+### Testing Video (MRTK and Mixed reality Support) (UNITY)
+- [MRTK Support](https://drive.google.com/file/d/1_chHqk8eMq7XklHAe1jlOo7vee1jTl28/view?usp=sharing
+
+### Testing Video (MRTK and Mixed reality Support) (Hololens 2)
+- [MRTK Hololens2 Test](https://drive.google.com/file/d/1BRa1toiRotev3TUFYTuYhwOih98k6ZOS/view?usp=sharing)
